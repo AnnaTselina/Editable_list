@@ -1,0 +1,13 @@
+#in {
+    height: 22px;
+    width: 180px;
+}
+
+#add, #remove {
+    height: 28px;
+    width: 90px;
+}
+
+ol li {padding: 7px}
+
+input {width: 127px;}
